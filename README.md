@@ -80,5 +80,5 @@ This project is for **educational purposes only**. It must not be used for malic
 
 ## Author
 - **Sagar**
-- Email: eng.sagar.aiub@gmail.com
+- Email: sagarbiswas@multihat.dev
 
