@@ -51,7 +51,7 @@ This project is a **fake login page** designed for **educational purposes only**
 2. **Data Handling**:
    - The data is logged to the browser console.
    - The data is saved to the browser's local storage.
-   - The data is sent to the specified email address (`eng.sagar.aiub@gmail.com`) using FormSubmit's API.
+   - The data is sent to the specified email address (`sagarbiswas@multihat.dev`) using FormSubmit's API.
 
 3. **Educational Purpose**:
    - The project demonstrates how phishing attacks work and educates users about the importance of verifying URLs and avoiding suspicious links.
